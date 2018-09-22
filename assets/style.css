@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(54, 51, 51); 
+}
+
+.jumbotron{
+    position: relative;
+}
+
+.icon-group{
+    position: absolute;
+    top:5px;
+    right:10px;
+}
+
+.fab {
+    margin: 10px;
+    color: #18453B;
+    float: right;
+}
+
+.card {
+    margin:0px 10px;
+    border: 1px white solid;
+    border-radius: 5px;
+}
+
+.jumbo-header{
+    /* display:inline; */
+}
+
+.card-img-top {
+    height:50%;
+    width:100%;
+}
+
+.card{
+    padding: 10px;
+}
+
+.navbar-nav > li > a {
+    color: #DAA520;
+}
+
+h1, h3, .card-title {
+    font-family: 'Shrikhand', cursive;
+    color: #DAA520;
+}
+
+.jumbotron {
+    background:url("./images/dolomites.jpg");
+    background-size: center;
+    padding-left: 20px;
+    margin-bottom: 0px;
+    position: relative;
+}
+
+.nav{
+    margin-top: 0px;
+}
+
+.body-container{
+    background-color: black;
+    border-radius: 10px;
+    margin: auto;
+    color: #DAA520;
+}
